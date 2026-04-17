@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Model (too large for GitHub — 267MB)
+*.h5
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+.dist/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
