@@ -82,6 +82,3 @@ The frontend will start at `http://localhost:5173` and the backend will be runni
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-
-## 📜 License
-This project is open-source and available under the MIT License.
