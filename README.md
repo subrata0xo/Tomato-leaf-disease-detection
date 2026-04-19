@@ -52,13 +52,6 @@ Make sure you have Python 3.8+ installed.
 ```bash
 cd backend
 
-# (Optional) Create and activate a virtual environment
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
-
 # Install requirements
 pip install -r requirements.txt
 
